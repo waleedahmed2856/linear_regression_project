@@ -10,4 +10,4 @@ FastAPI backend with Swagger UI
 Also streamlit UI
 
 Tech Stack:
-Python, FastAPI, NumPy, Pandas, Scikit-learn
+Python, FastAPI, NumPy, Pandas, Scikit-learn, langchain.....
